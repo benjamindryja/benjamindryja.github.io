@@ -4,3 +4,5 @@ Big, green, ANGRY!!! This is what you can say about Hulk. He is member of the Av
 * Big
 * Green
 * Angry
+Quote:
+> Leave me alone.
